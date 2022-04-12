@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="CSS/style.css" >
-  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
   
 </head>
 <body>
@@ -77,15 +77,105 @@
 </div>
 
 <section class="my-5">
-  <div>
+  <div class="py-5">
       <h2 class="text-center">About Us</h2>
   </div>
-
-  <div class="row">
-    <div class="col-lg-6 col-md-6 col-12">
-        <img src="images/anime4.webp" class="img-fluid"/>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-12">
+          <img src="images/anime4.webp" class="img-fluid aboutimg"/>
+      </div>
+      <div class="col-lg-6 col-md-6 col-12">
+          <h2 class="display-4">I am harsh </h2>
+          <p class="py-5"> PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group.
+          </p>
+          <a href="about.php" class="py-4 btn btn-success">Check more</a>
+      </div>
     </div>
   </div>
+</section>
+
+
+<section class="my-5">
+  <div class="py-5">
+      <h2 class="text-center">Our Services</h2>
+  </div>
+  
+  <div class="container-fluid">
+      <div class="row">
+          <div class="col-lg-4 col-md-4 col-12">
+                <div class="card">
+                  <img class="card-img-top" src="images/anime5.webp" alt="Card image">
+                    <div class="card-body">
+                      <h4 class="card-title">Beautiful nature</h4>
+                      <p class="card-text">Some example text.</p>
+                      <a href="#" class="btn btn-primary">See Profile</a>
+                    </div>
+                </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-12">
+                <div class="card">
+                  <img class="card-img-top" src="images/anime5.webp" alt="Card image">
+                    <div class="card-body">
+                      <h4 class="card-title">Beautiful nature</h4>
+                      <p class="card-text">Some example text.</p>
+                      <a href="#" class="btn btn-primary">See Profile</a>
+                    </div>
+                </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-12">
+                <div class="card">
+                  <img class="card-img-top" src="images/anime5.webp" alt="Card image">
+                    <div class="card-body">
+                      <h4 class="card-title">Beautiful nature</h4>
+                      <p class="card-text">Some example text.</p>
+                      <a href="#" class="btn btn-primary">See Profile</a>
+                    </div>
+                </div>
+          </div>
+      </div>
+  </div>
+</section>
+
+<section class="my-5">
+  <div class="py-5">
+      <h2 class="text-center">Gallery </h2>
+  </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-4">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-4">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-4">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-4">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-4">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-4">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-4">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-3">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+          <img src="images/anime.png" class="img-fluid pb-3">
+      </div>
+
+    </div>
+  </div>
+
 </section>
 
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
