@@ -10,35 +10,8 @@
   
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">PhP Ca 3rd</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Services</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="about.php">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
-        </li>
-            
-      </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
-    </div>
-  </div>
-</nav>
+<?php include 'menu.php'?>
+
 <div id="demo" class="carousel slide" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -177,6 +150,41 @@
   </div>
 
 </section>
+
+
+<section class="my-5">
+  <div class="py-5">
+      <h2 class="text-center">Contact Us </h2>
+  </div>
+
+  <div class="w-50 m-auto">
+    <form action="userinfo.php" method="post">
+      <div class="form-group">
+        <label>Username</label>
+        <input type="text" name="user" autocomplete="off" class="form-control">
+      </div>
+      <div class="form-group">
+        <label>Email Id</label>
+        <input type="text" name="email" autocomplete="off" class="form-control">
+      </div>
+      <div class="form-group">
+        <label>Mobile</label>
+        <input type="text" name="mobile" autocomplete="off" class="form-control">
+      </div>
+      <div class="form-group">
+        <label>Comments</label>
+        <textarea class="form-control" name="comment">
+        </textarea>
+      </div>
+        <button type="submit" class="btn btn-success">Submit</button>
+
+      
+  </div>
+</section>
+
+<footer>
+  <p class="p-3 bg-dark text-white text-center">harshPsingh@live.com</p>
+</footer>
 
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
