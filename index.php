@@ -20,24 +20,24 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/anime.png" alt="Los Angeles" width="1100" height="500">
+      <img src="images/demon.png" alt="Los Angeles" width="1100" height="900">
       <div class="carousel-caption">
-        <h3>Los Angeles</h3>
-        <p>We had such a great time in LA!</p>
+        <h1>Demon Slayer</h1>
+        <h2>Kimetsu no Yaiba is a Japanese anime television series based on the manga series of the same name written and illustrated by Koyoharu Gotouge</h2>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/anime2.jpg" alt="Chicago" width="1100" height="500">
+      <img src="images/inu.jpg" alt="Chicago" width="1100" height="900">
       <div class="carousel-caption">
-        <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p>
+        <h1>Inuyasha</h1>
+        <h2>Inuyasha is a Japanese manga series written and illustrated by Rumiko Takahashi, Teenager Kagome Higurashi tumbles into a cursed well and finds herself in ancient Japan, surrounded by ghouls and goblins. </h2>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/anime3.jpg" alt="New York" width="1100" height="500">
+      <img src="images/goku.jpg" alt="New York" width="1100" height="900">
       <div class="carousel-caption">
-        <h3>New York</h3>
-        <p>We love the Big Apple!</p>
+        <h3>Dragon Ball Super</hh3>
+        <p>After waking up from decades of slumber, Beerus, the god of destruction, wants to defeat Goku, the Super Saiyan God, whom he had seen in his sleep. Goku fights with him to save earth.</p>
       </div>   
     </div>
   </div>
@@ -51,17 +51,17 @@
 
 <section class="my-5">
   <div class="py-5">
-      <h2 class="text-center">About Us</h2>
+      <h1 class="text-center">About Us</h1>
   </div>
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-12">
-          <img src="images/anime4.webp" class="img-fluid aboutimg"/>
+          <img src="images/crossover.jpg" width="100%" height="400"/>
       </div>
       <div class="col-lg-6 col-md-6 col-12">
-          <h2 class="display-4">I am harsh </h2>
-          <p class="py-5"> PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group.
-          </p>
+          <h2 class="display-4">For all the weeb out there</h2>
+          <h3 class="py-5"> Largest Collection of Anime. Catch your favorite shows and movies.
+          </h3>
           <a href="about.php" class="py-4 btn btn-success">Check more</a>
       </div>
     </div>
@@ -71,17 +71,17 @@
 
 <section class="my-5">
   <div class="py-5">
-      <h2 class="text-center">Our Services</h2>
+      <h1 class="text-center">Our Services</h1>
   </div>
   
   <div class="container-fluid">
       <div class="row">
           <div class="col-lg-4 col-md-4 col-12">
                 <div class="card">
-                  <img class="card-img-top" src="images/anime5.webp" alt="Card image">
+                  <img class="card-img-top" src="images/plugin.png" alt="Card image">
                     <div class="card-body">
-                      <h4 class="card-title">Beautiful nature</h4>
-                      <p class="card-text">Some example text.</p>
+                      <h4 class="card-title">Anime on demand</h4>
+                      <p class="card-text">Watch anime anywhere, anytime.</p>
                       <a href="#" class="btn btn-primary">See Profile</a>
                     </div>
                 </div>
@@ -89,10 +89,10 @@
 
           <div class="col-lg-4 col-md-4 col-12">
                 <div class="card">
-                  <img class="card-img-top" src="images/anime5.webp" alt="Card image">
+                  <img class="card-img-top" src="images/icondown.png" alt="Card image">
                     <div class="card-body">
-                      <h4 class="card-title">Beautiful nature</h4>
-                      <p class="card-text">Some example text.</p>
+                      <h4 class="card-title">Downloadable 1080p Videos </h4>
+                      <p class="card-text">Download high-quality videos</p>
                       <a href="#" class="btn btn-primary">See Profile</a>
                     </div>
                 </div>
@@ -100,10 +100,10 @@
 
           <div class="col-lg-4 col-md-4 col-12">
                 <div class="card">
-                  <img class="card-img-top" src="images/anime5.webp" alt="Card image">
+                  <img class="card-img-top" src="images/spotify.png" alt="Card image">
                     <div class="card-body">
-                      <h4 class="card-title">Beautiful nature</h4>
-                      <p class="card-text">Some example text.</p>
+                      <h4 class="card-title">Anime intro and outro</h4>
+                      <p class="card-text">Find any anime intro and outro songs</p>
                       <a href="#" class="btn btn-primary">See Profile</a>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
 
 <section class="my-5">
   <div class="py-5">
-      <h2 class="text-center">Gallery </h2>
+      <h1 class="text-center">Wallpapers</h1>
   </div>
   <div class="container-fluid">
     <div class="row">
@@ -122,28 +122,28 @@
           <img src="images/anime.png" class="img-fluid pb-4">
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/anime.png" class="img-fluid pb-4">
+          <img src="images/anime2.jpg" class="img-fluid pb-4">
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/anime.png" class="img-fluid pb-4">
+          <img src="images/anime3.jpg" class="img-fluid pb-4">
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/anime.png" class="img-fluid pb-4">
+          <img src="images/anime4.webp" class="img-fluid pb-4">
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/anime.png" class="img-fluid pb-4">
+          <img src="images/demon.png" class="img-fluid pb-4">
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/anime.png" class="img-fluid pb-4">
+          <img src="images/inu.jpg" class="img-fluid pb-4">
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/anime.png" class="img-fluid pb-4">
+          <img src="images/goku.jpg" class="img-fluid pb-4">
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/anime.png" class="img-fluid pb-3">
+          <img src="images/gokuone.jpg" class="img-fluid pb-3">
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/anime.png" class="img-fluid pb-3">
+          <img src="images/crossover.jpg" class="img-fluid pb-3">
       </div>
 
     </div>

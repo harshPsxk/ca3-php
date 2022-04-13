@@ -13,8 +13,8 @@
 <?php include'menu.php' ?>
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1>Harsh Pratap Singh</h1>
-    <p>Ca3rd for Php</p>
+    <h1>Have a fill of anime</h1>
+    <p>Anime Corner</p>
   </div>
 </div>
 <section class="my-5">
@@ -24,7 +24,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-12">
-          <img src="images/anime4.webp" class="img-fluid aboutimg"/>
+          <img src="images/crossover.jpg" width="100%" height="400"/>
       </div>
       <div class="col-lg-6 col-md-6 col-12">
           <h2 class="display-4">I am harsh </h2>
