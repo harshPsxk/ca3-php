@@ -20,21 +20,21 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/demon.png" alt="Los Angeles" width="1100" height="900">
+      <a href="https://animebee.to/demon-slayer-kimetsu-no-yaiba.6erj?ref=search"><img src="images/demon.png" alt="Los Angeles" width="1100" height="900"></a>
       <div class="carousel-caption">
         <h1>Demon Slayer</h1>
         <h2>Kimetsu no Yaiba is a Japanese anime television series based on the manga series of the same name written and illustrated by Koyoharu Gotouge</h2>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/inu.jpg" alt="Chicago" width="1100" height="900">
+      <a href="https://animebee.to/inuyasha.vy9?ref=search"><img src="images/inu.jpg" alt="Chicago" width="1100" height="900"></a>
       <div class="carousel-caption">
         <h1>Inuyasha</h1>
         <h2>Inuyasha is a Japanese manga series written and illustrated by Rumiko Takahashi, Teenager Kagome Higurashi tumbles into a cursed well and finds herself in ancient Japan, surrounded by ghouls and goblins. </h2>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/goku.jpg" alt="New York" width="1100" height="900">
+      <a href="https://animebee.to/dragon-ball-super.eq73?ref=search"><img src="images/goku.jpg" alt="New York" width="1100" height="900"></a>
       <div class="carousel-caption">
         <h3>Dragon Ball Super</hh3>
         <p>After waking up from decades of slumber, Beerus, the god of destruction, wants to defeat Goku, the Super Saiyan God, whom he had seen in his sleep. Goku fights with him to save earth.</p>
@@ -78,7 +78,7 @@
       <div class="row">
           <div class="col-lg-4 col-md-4 col-12">
                 <div class="card">
-                  <img class="card-img-top" src="images/plugin.png" alt="Card image">
+                <a href="https://animebee.to/home"><img class="card-img-top" src="images/plugin.png" alt="Card image"></a>
                     <div class="card-body">
                       <h4 class="card-title">Anime on demand</h4>
                       <p class="card-text">Watch anime anywhere, anytime.</p>
@@ -89,7 +89,7 @@
 
           <div class="col-lg-4 col-md-4 col-12">
                 <div class="card">
-                  <img class="card-img-top" src="images/icondown.png" alt="Card image">
+                <a href="https://animebee.to/home"><img class="card-img-top" src="images/icondown.png" alt="Card image"></a>
                     <div class="card-body">
                       <h4 class="card-title">Downloadable 1080p Videos </h4>
                       <p class="card-text">Download high-quality videos</p>
@@ -100,7 +100,7 @@
 
           <div class="col-lg-4 col-md-4 col-12">
                 <div class="card">
-                  <img class="card-img-top" src="images/spotify.png" alt="Card image">
+                <a href="https://openings.moe/list/?s=highsc"><img class="card-img-top" src="images/spotify.png" alt="Card image"></a>
                     <div class="card-body">
                       <h4 class="card-title">Anime intro and outro</h4>
                       <p class="card-text">Find any anime intro and outro songs</p>

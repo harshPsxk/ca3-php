@@ -27,10 +27,9 @@
           <img src="images/crossover.jpg" width="100%" height="400"/>
       </div>
       <div class="col-lg-6 col-md-6 col-12">
-          <h2 class="display-4">I am harsh </h2>
-          <p class="py-5"> PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group.
-          </p>
-          <a href="about.php" class="py-4 btn btn-success">Check more</a>
+          <h2 class="display-4">Just some weebs curious for animes</h2>
+          <p class="py-5">Anime corner is a solution for all the anime lovers out there, here we as a team works efficiently to provide you with the best updated anime which is not present aywhere, you can download, watch and even listen to any amine songs on our website. Its like one stop solution for your fill to binge watch animes. We still are in the development phase for our website and a whole lot of features are still awaiting in the line.Stay with us and let us provide you with the best experience of animes.</p>
+          <a href="index.php" class="py-4 btn btn-success">Go back to home</a>
       </div>
     </div>
   </div>
