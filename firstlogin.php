@@ -52,7 +52,7 @@ if (isset($_POST['login_submit'])) {
         .form {
         position: relative;
         z-index: 1;
-        background: #FFFFFF;
+        background: #0f9cff00;;
         max-width: 360px;
         margin: 0 auto 100px;
         padding: 45px;
@@ -92,11 +92,11 @@ if (isset($_POST['login_submit'])) {
         }
         .form .message {
         margin: 15px 0 0;
-        color: #b3b3b3;
+        color: #000000a8;;
         font-size: 12px;
         }
         .form .message a {
-        color: #21B6A8;
+        color: #c058db;;
         text-decoration: none;
         }
         .form .register-form {
@@ -136,7 +136,7 @@ if (isset($_POST['login_submit'])) {
         color: #EF3B3A;
         }
         body {
-          background-image: url("images/background.jpg");   
+          background-image: url("images/up.png");   
         }
   </style>
 </head>
