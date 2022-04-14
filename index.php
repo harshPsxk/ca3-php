@@ -71,7 +71,7 @@
 
 <section class="my-5">
   <div class="py-5">
-      <h1 class="text-center">Our Services</h1>
+      <h1 id="service" class="text-center">Our Services</h1>
   </div>
   
   <div class="container-fluid">
@@ -82,7 +82,7 @@
                     <div class="card-body">
                       <h4 class="card-title">Anime on demand</h4>
                       <p class="card-text">Watch anime anywhere, anytime.</p>
-                      <a href="#" class="btn btn-primary">See Profile</a>
+                      <a href="https://animebee.to/home" class="btn btn-primary">Start watching</a>
                     </div>
                 </div>
           </div>
@@ -93,7 +93,7 @@
                     <div class="card-body">
                       <h4 class="card-title">Downloadable 1080p Videos </h4>
                       <p class="card-text">Download high-quality videos</p>
-                      <a href="#" class="btn btn-primary">See Profile</a>
+                      <a href="https://animebee.to/home" class="btn btn-primary">Download now!</a>
                     </div>
                 </div>
           </div>
@@ -104,7 +104,7 @@
                     <div class="card-body">
                       <h4 class="card-title">Anime intro and outro</h4>
                       <p class="card-text">Find any anime intro and outro songs</p>
-                      <a href="#" class="btn btn-primary">See Profile</a>
+                      <a href="https://openings.moe/list/?s=highsc" class="btn btn-primary">Know your music</a>
                     </div>
                 </div>
           </div>
@@ -154,7 +154,7 @@
 
 <section class="my-5">
   <div class="py-5">
-      <h2 class="text-center">Contact Us </h2>
+      <h2 class="text-center" id="contact-us">Contact Us </h2>
   </div>
 
   <div class="w-50 m-auto">
@@ -181,6 +181,7 @@
       
   </div>
 </section>
+
 
 <footer>
   <p class="p-3 bg-dark text-white text-center">harshPsingh@live.com</p>
