@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="CSS/style.css" >
   <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/56fc03aaa3.js" crossorigin="anonymous"></script>
   
 </head>
 <body>
@@ -182,9 +183,14 @@
   </div>
 </section>
 
+  <section class="arrow">
 
+  </section>
+
+
+  <a class="gotopbtn" href="#"><i class="fa-solid fa-arrow-up"></i></a>
 <footer>
-  <p class="p-3 bg-dark text-white text-center">harshPsingh@live.com</p>
+  <p class="p-3 bg-dark text-white text-center">&copy; Copyright 2022 harshPsingh@live.com</p>
 </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>

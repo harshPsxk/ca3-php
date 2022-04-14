@@ -1,3 +1,6 @@
+html{
+  scroll-behavior: smooth;
+}
 *{
   margin: 0;
   padding: 0;
@@ -11,5 +14,20 @@
 
 .cardimg{
   height: 100px!important;
+}
+
+.gotopbtn{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: rgba(80, 80, 199, 0.328);
+  bottom: 40px;
+  right: 50px;
+
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  font-size: 22px;
+
 }
 

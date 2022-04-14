@@ -35,8 +35,9 @@
   </div>
 </section>
 
+
 <footer>
-  <p class="p-3 bg-dark text-white text-center">harshPsingh@live.com</p>
+  <p class="p-3 bg-dark text-white text-center">&copy; Copyright 2022 harshPsingh@live.com</p>
 </footer>
 
 </body>

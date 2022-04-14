@@ -146,17 +146,17 @@ if (isset($_POST['login_submit'])) {
 
             <!-- SignUp Form -->
             <form action="" method="post" class="register-form">
-                <input type="text" name="name" placeholder="name"/>
-                <input type="password" name="password" placeholder="password"/>
-                <input type="text" name="email"  placeholder="email address"/>
+                <input type="text" name="name" placeholder="name" required="required"/>
+                <input type="password" name="password" placeholder="password" required="required"/>
+                <input type="text" name="email"  placeholder="email address" required="required"/>
                 <button type="submit" name="register_submit">create</button>
                 <p class="message">Already registered? <a href="#">Sign In</a></p>
             </form>
             
             <!-- Login Form -->
             <form action="" method="post" class="login-form">
-                <input type="text" name="email" placeholder="Email"/>
-                <input type="password" name="password" placeholder="password"/>
+                <input type="text" name="email" placeholder="Email" required="required"/>
+                <input type="password" name="password" placeholder="password" required="required"/>
                 <button type="submit" name="login_submit">login</button>
                 <p class="message">Not registered? <a href="#">Create an account</a></p>
             </form>
